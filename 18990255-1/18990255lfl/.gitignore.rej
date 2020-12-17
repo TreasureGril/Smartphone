@@ -1,0 +1,16 @@
+diff a/18990255-1/18990255lfl/.gitignore b/18990255-1/18990255lfl/.gitignore	(rejected hunks)
+@@ -0,0 +1,14 @@
++*.iml
++.gradle
++/local.properties
++/.idea/caches
++/.idea/libraries
++/.idea/modules.xml
++/.idea/workspace.xml
++/.idea/navEditor.xml
++/.idea/assetWizardSettings.xml
++.DS_Store
++/build
++/captures
++.externalNativeBuild
++.cxx
